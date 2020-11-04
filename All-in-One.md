@@ -3,7 +3,7 @@
 # Deploying an Openstack All-in-One on Ampere Aarch64 Servers
 
 ## Table of Contents
-* [Introdocution](#introduction)
+* [Introduction](#introduction)
 * [Kolla/Kolla-Ansible Primer](#kolla/kolla-ansible-primer)
 * [Requirements](#requirements)
   * [Operating System](#operating-system)
