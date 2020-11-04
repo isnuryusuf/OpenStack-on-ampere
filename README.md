@@ -9,10 +9,10 @@ The following is a series of documents and instructions for  deploying and using
 
 An article describing how to use OpenStack Kolla and Kolla-ansible to deploy an OpenStack All-In-One setup for Virtualization.
 
-* [All-in-One.md](All-in-One.md)
+* [All-in-One](All-in-One.md)
 
 ## References
 
 References used while generating information for these articles.
 
-* [References.md](References.md)
+* [References](References.md)
