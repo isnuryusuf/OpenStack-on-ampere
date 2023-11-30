@@ -809,6 +809,7 @@ kolla-ansible -i /usr/local/share/kolla-ansible/ansible/inventory/all-in-one cer
 Once [kolla-ansible](https://opendev.org/openstack/kolla-ansible) has created the certificates we can now bootstrap servers with the necessary requirements.
 
 ```
+kolla-ansible install-deps
 kolla-ansible -i /usr/local/share/kolla-ansible/ansible/inventory/all-in-one bootstrap-servers
 ```
 
