@@ -158,7 +158,7 @@ git clone https://opendev.org/openstack/kolla-ansible
 Install ansible from pip packages.  Currently ansible has major changes when moving from version 2.9.x to 2.10.x.   At this time Kolla-ansible is not compatible with the newer 2.10.x ansible version and only supports ansible 2.9.x.
 
 ```
-pip install -U 'ansible<2.9'
+pip install -U ansible-core==2.14.6
 ```
 
 Install Kolla and Kolla-ansible from the local git sources.
